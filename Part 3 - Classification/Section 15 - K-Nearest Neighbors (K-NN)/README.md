@@ -46,9 +46,10 @@ Here are some examples of how KNN can be used:
 * Predicting the price of a house based on its features
 * Clustering data points into groups
 
+![k-nearest-neighbor-algorithm-for-machine-learning2](https://github.com/gamalahmed3265/Machine-Learning/assets/75225936/85cd1296-1a02-4fa0-9424-b1965e582b18)
 
 
-Sure, here is the math behind KNN:
+math behind KNN:
 
 The KNN algorithm works by finding the k most similar instances in the training set to a new instance, and then predicting the label of the new instance based on the labels of the k nearest neighbors.
 
