@@ -22,3 +22,17 @@ Machine Learning A-Z (Codes and Datasets).zip
 Until then, enjoy Machine Learning!
 
 Hadelin & Kirill
+
+
+
+
+
+
+
+()[https://www.atriainnovation.com/wp-content/uploads/2021/02/portada-1080x675.jpg.webp]
+
+
+
+
+
+
