@@ -32,10 +32,11 @@ Here are some additional details about SVMs:
 * The support vectors are the data points that lie on the maximum margin hyperplane. These points are the most important for the SVM model, as they determine the position of the hyperplane.
 * SVMs can be used with a variety of kernels, which are functions that map the data into a higher dimensional space. The kernel function helps to improve the accuracy of the SVM model.
 
-I hope this overview of SVMs is helpful. Please let me know if you have any other questions.
+![Support-Vector-Machine](https://github.com/gamalahmed3265/Machine-Learning/assets/75225936/210578a6-f519-4993-bce8-92bdda44d165)
 
 
-Sure, here is an example of how to implement SVM in Python using the Scikit-learn library:
+
+how to implement SVM in Python using the Scikit-learn library:
 
 ```python
 import numpy as np
