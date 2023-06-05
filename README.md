@@ -28,8 +28,8 @@ Hadelin & Kirill
 
 
 
+![download](https://github.com/gamalahmed3265/Machine-Learning/assets/75225936/b9c9c98d-c9fa-4ce2-9fe4-ca87b10cc905)
 
-()[https://www.atriainnovation.com/wp-content/uploads/2021/02/portada-1080x675.jpg.webp]
 
 
 
