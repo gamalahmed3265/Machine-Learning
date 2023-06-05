@@ -48,7 +48,38 @@ Here are some examples of how KNN can be used:
 
 
 
-Sure, here is an example of how to implement KNN in Python:
+Sure, here is the math behind KNN:
+
+The KNN algorithm works by finding the k most similar instances in the training set to a new instance, and then predicting the label of the new instance based on the labels of the k nearest neighbors.
+
+The similarity between two instances can be measured using a variety of distance metrics, such as the Euclidean distance, the Manhattan distance, or the Mahalanobis distance.
+
+The Euclidean distance is the most common distance metric used in KNN. It is calculated as follows:
+
+```
+distance = sqrt((x1 - x2)^2 + (y1 - y2)^2)
+```
+
+where x1 and y1 are the features of the first instance, and x2 and y2 are the features of the second instance.
+
+The Manhattan distance is another common distance metric used in KNN. It is calculated as follows:
+
+```
+distance = |x1 - x2| + |y1 - y2|
+```
+
+The Mahalanobis distance is a more complex distance metric that takes into account the correlation between the features. It is calculated as follows:
+
+```
+distance = sqrt((x1 - x2)^2 / (sigma1^2 + sigma2^2)) + (y1 - y2)^2 / (sigma3^2 + sigma4^2))
+```
+
+where sigma1, sigma2, sigma3, and sigma4 are the standard deviations of the features.
+
+Once the k nearest neighbors have been found, the algorithm predicts the label of the new instance based on the labels of the k nearest neighbors. The most common way to do this is to use a majority vote. If the majority of the k nearest neighbors have the same label, then the new instance is assigned that label. If there is no majority, then the new instance is assigned a label randomly.
+
+
+ here is an example of how to implement KNN in Python:
 
 ```python
 import numpy as np
