@@ -1,4 +1,4 @@
-Sure, here is a brief overview of Support Vector Machines (SVMs):
+# Support Vector Machines (SVMs):
 
 * SVMs are a supervised learning algorithm that can be used for both classification and regression tasks.
 * SVMs work by finding the maximum margin hyperplane that separates the data points into two classes.
@@ -79,4 +79,3 @@ Here is a breakdown of what each line of code does:
 * `accuracy = np.mean(y_pred == y_test)` calculates the accuracy of the predictions.
 * `print('Accuracy:', accuracy)` prints the accuracy of the predictions.
 
-I hope this example is helpful. Please let me know if you have any other questions.
