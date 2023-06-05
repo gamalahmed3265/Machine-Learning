@@ -28,11 +28,4 @@ Hadelin & Kirill
 
 
 
-![download](https://github.com/gamalahmed3265/Machine-Learning/assets/75225936/b9c9c98d-c9fa-4ce2-9fe4-ca87b10cc905)
-
-
-
-
-
-
-
+![2018-04-13_1322](https://github.com/gamalahmed3265/Machine-Learning/assets/75225936/cdc7e561-43ac-4e92-b590-338b461b09be)
