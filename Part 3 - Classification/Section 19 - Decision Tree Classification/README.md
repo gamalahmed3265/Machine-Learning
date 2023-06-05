@@ -34,7 +34,7 @@ Decision trees are a type of supervised learning algorithm that can be used for 
 
 Decision trees can be implemented in Python using the scikit-learn library. The following code shows how to create a decision tree classifier using scikit-learn:
 
-```
+```python
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
 
